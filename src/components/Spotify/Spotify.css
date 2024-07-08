@@ -1,0 +1,40 @@
+.sp{
+    width: 1357px;
+height: 114px;
+position:absolute;
+top: 742px;
+left: -7.82px;
+gap: 0px;
+opacity: 0px;
+background-color: white;
+}
+.m0{
+    width: 1208px;
+    height: 55px;
+    position: relative;
+    left: 50px;
+    top: -18px;
+    gap: 0px;
+    opacity: 0px;
+    display: inline;
+    
+}
+
+
+@keyframes move-rtl {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+.m1{
+    width: 250.45px;
+    height: 140.82px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 50px;
+    filter:grayscale(60);
+    animation: move-rtl 1500ms linear  infinite;
+}

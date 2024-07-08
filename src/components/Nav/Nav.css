@@ -1,0 +1,98 @@
+.nav {
+    width: 1349px;
+    height: 83px;
+    border-bottom: 1px solid #D2D6DB;
+}
+
+.z1 {
+    width: 88px;
+    height: 58px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    top: 10px;
+    left: 40px;
+
+}
+
+.z2 {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 28.8px;
+    text-align: left;
+
+}
+
+.z3 {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.input {
+    position: relative;
+    top: 22px;
+    left: 800px;
+    border-radius: 1px;
+}
+
+.z4 {
+    width: 113px;
+    height: 44px;
+    padding: 12px 10px 12px 10px;
+    background-color: #5C27C0;
+    border-radius: 8px 8px 8px 8px;
+    position: relative;
+    top: 15px;
+    left: 900px;
+
+}
+
+.z5 {
+    position: relative;
+    left: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+
+.z6 {
+    width: 705px;
+    height: 24px;
+    gap: 34px;
+    opacity: 0px;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    display: inline-flex;
+}
+
+.z7 {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.011em;
+    text-align: center;
+    padding: 10px;
+}
+
+.z8 {
+    font-weight: 600;
+}
+.lol{
+    width: 13.5px;
+height: 13.5px;
+position: relative;
+
+left: 30px;
+gap: 0px;
+}
+
+.search{
+text-align: center;
+}

@@ -1,0 +1,190 @@
+.bot {
+    position: relative;
+    top: 5330px;
+    width: 1348px;
+    height: 385.69px;
+    background-color: #5C27C0;
+}
+
+.hd {
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    color: white;
+    font-weight: 100;
+    position: relative;
+    width: 126px;
+    height: 69px;
+    top: 22px;
+    left: 49px;
+    padding: 0px 9px 0px 0px;
+}
+
+.hb {
+    font-weight: bold;
+}
+
+.let {
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 25.2px;
+    color: #FFFFFF;
+}
+
+.div {
+    width: 272px;
+    position: relative;
+    height: 122.32px;
+    top: 70px;
+    left: 48px;
+}
+
+.nam {
+    width: 117px;
+    height: 20.44px;
+    position: relative;
+    left: 550px;
+    top: -150px;
+
+}
+
+.nam1 {
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21.42px;
+    text-align: left;
+    color: white;
+}
+
+.r {
+    width: 150px;
+    position: absolute;
+    top: 1px;
+    left: 180px;
+}
+
+.connect {
+    position: absolute;
+    top: 35px;
+    left: 1100px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 20;
+    line-height: 30.24px;
+    color: white;
+}
+
+.line {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    height: 1px;
+    width: 1250px;
+    background-color: white;
+}
+
+.copy {
+    position: absolute;
+    bottom: 1px;
+    left: 536px;
+}
+
+.right {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 50;
+    color: white;
+}
+
+.get {
+    width: 143px;
+    position: absolute;
+    height: 30px;
+    top: 175px;
+    left: 1080px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.touch {
+    width: 150px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30.24px;
+    text-align: left;
+    color: white;
+}
+
+.mob {
+    width: 122px;
+    position: absolute;
+    height: 20px;
+    top: 220px;
+    left: 1125px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.no {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    color: white;
+}
+
+.ms {
+    width: 118px;
+    position: absolute;
+    height: 20px;
+    top: 263px;
+    left: 1130px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.g {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    color: white;
+}
+.ig{
+    width: 40px;
+height: 40.48px;
+position: absolute;
+top: 80px;
+left: 1100px;
+gap: 0px;
+opacity: 0px;
+display: inline-flex;
+
+}
+.gg{
+    padding: 7px;
+}
+.h5{
+    width: 24px;
+height: 22px;
+position: absolute;
+top: 1px;
+left: -35px;
+gap: 0px;
+opacity: 0px;
+
+}
+.h6{
+        width: 24px;
+    height: 22px;
+    position: absolute;
+    top: 1px;
+    left: -38px;
+    gap: 0px;
+    opacity: 0px;
+    
+    }

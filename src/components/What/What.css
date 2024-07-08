@@ -1,0 +1,91 @@
+.w {
+    width: 1349px;
+    height: 441px;
+    position: absolute;
+    top: 2423px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.wha {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50.8px;
+    letter-spacing: -0.011em;
+    text-align: center;
+}
+
+.st{
+    width: 260px;
+    height: 292px;
+    position: relative;
+    top: 60px;
+    left: 119px;
+    padding: 8px 8px 0px 8px;
+    gap: 30px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    
+    border: 1px solid lightgray;
+}
+.su{
+    width: 260px;
+    height: 292px;
+    position: relative;
+    top: -232px;
+    left: 730px;
+    padding: 8px 8px 0px 8px;
+    gap: 30px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+   
+    border: 1px solid lightgray;
+}
+.sw{
+    width: 260px;
+    height: 292px;
+    position: relative;
+    top: -524px;
+    left: 420px;
+    padding: 8px 8px 0px 8px;
+    gap: 30px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    
+    border: 1px solid lightgray;
+}
+.sx{
+    width: 260px;
+    height: 292px;
+    position: relative;
+    top: -815px;
+    left: 1040px;
+    padding: 8px 8px 0px 8px;
+    gap: 30px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+  
+    border: 1px solid lightgray;
+}
+.a1{
+    font-family: sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 43.71px;
+text-align: center;
+color: #3A3562;
+}
+.g1{
+ width: 250px;
+height: 175px;
+}
+.g2{
+    width: 216px;
+height: 106px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+top: 185px;
+left: 30px;
+}

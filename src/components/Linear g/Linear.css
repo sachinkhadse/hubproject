@@ -1,0 +1,126 @@
+.li {
+    width: 1348px;
+    height: 704px;
+    position: absolute;
+    top: 6350px;
+    left: 1px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    background-image: linear-gradient(88.37deg, rgba(0, 82, 255, 0.5) -8.8%, rgba(239, 163, 229, 0.979371) 31.83%, #F7AAE7 40.89%, rgba(92, 39, 192, 0.6) 72.52%, #432678 122.18%);
+}
+
+.are {
+    width: 686px;
+    height: 300px;
+    position: absolute;
+    top: 220px;
+    left: 660px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.you {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: left;
+    color: white;
+}
+
+.t {
+    width: 243px;
+    height: 59.89px;
+    position: absolute;
+    top: 457.89px;
+    left: 661px;
+    color: white;
+    border-radius: 10px;
+    border: none
+}
+
+.tt {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    color: #5C27C0;
+}
+
+.logo {
+    width: 700px;
+    height: 518px;
+    position: relative;
+    top: 113px;
+    left: -20px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.r1 {
+    width: 127px;
+    height: 134px;
+    position: relative;
+    top: 350px;
+    left: 450px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.r2 {
+    width: 103.44px;
+    height: 108.47px;
+    position: relative;
+    top: -100px;
+    left: 260px;
+    gap: 0px;
+    opacity: 0px;
+    transform: rotateZ(100deg);
+}
+
+.r3 {
+    width: 103.44px;
+    height: 108.47px;
+    position: absolute;
+    top: 540.93px;
+    left: 570px;
+    gap: 0px;
+    opacity: 0px;
+    transform: rotateZ(100deg);
+
+}
+
+.r4 {
+    width: 78px;
+    height: 82px;
+    position: absolute;
+    top: 154px;
+    left: 530px;
+    transform: rotateZ(100deg);
+}
+
+.r5 {
+    width: 103.44px;
+    height: 108.47px;
+    position: absolute;
+    top: 580.93px;
+    left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    transform: rotateZ(100deg);
+}
+
+.r6 {
+    width: 103.44px;
+    height: 108.47px;
+    position: absolute;
+    top: 15px;
+    left: 120.76px;
+    gap: 0px;
+    opacity: 0px;
+    transform: rotateZ(110deg);
+}
